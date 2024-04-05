@@ -1,4 +1,4 @@
-# Hi there I'm Nicholas Gordon 👋
+# Hello World 🌎, I'm Nicholas Gordon 👋🏾
 ### Coding Mentor | Detroit Native
 
 
