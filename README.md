@@ -1,4 +1,4 @@
-# Hello World 🌎, I'm Nicholas Gordon 👋🏾
+# Hello World 🌎, I'm Nick G 👋🏾
 ### Coding Mentor | Detroit Native
 
 
