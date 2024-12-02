@@ -12,6 +12,8 @@
 
 - Feel free to check out some of my projects
 
+| ![IMG_4141](https://github.com/user-attachments/assets/d0829247-929d-4902-a034-d923ce2cb3d6)  |  <img width="857" alt="Screenshot 2024-12-02 at 4 53 45 PM" src="https://github.com/user-attachments/assets/00399bd0-2776-4b26-802b-9cba1fdc0f1c">| ![Image 3](image3.png) |
+|-------------------------|------------------------|-------------------------|
 
 | ![IMG_4141](https://github.com/user-attachments/assets/d0829247-929d-4902-a034-d923ce2cb3d6) | <img width="857" alt="Screenshot 2024-12-02 at 4 53 45 PM" src="https://github.com/user-attachments/assets/00399bd0-2776-4b26-802b-9cba1fdc0f1c">|
 
