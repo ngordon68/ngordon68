@@ -6,7 +6,7 @@
   
 - Connect with me on [Linkedin](https://www.linkedin.com/in/nicholas-gordon-406394bb/)
   
-- Connect with me on [Website](https://www.detroitdevs.net)
+- Check out our website [Website](https://www.detroitdevs.net)
 
 - Always down to learn and improve
 
