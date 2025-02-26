@@ -20,7 +20,3 @@
   <img src="https://github.com/user-attachments/assets/00399bd0-2776-4b26-802b-9cba1fdc0f1c" width="400">
   <img src="https://github.com/user-attachments/assets/555f7940-2b97-409a-9f1e-07c8a2795ed9" width="400">
 </p>
-
-
-
-![1740071324970](https://github.com/user-attachments/assets/555f7940-2b97-409a-9f1e-07c8a2795ed9)
