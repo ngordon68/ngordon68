@@ -12,6 +12,8 @@
 
 - Feel free to check out some of my projects
 
+- [Buy Me a Coffee](buymeacoffee.com/DevNickG)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0829247-929d-4902-a034-d923ce2cb3d6" width="400">
   <img src="https://github.com/user-attachments/assets/555f7940-2b97-409a-9f1e-07c8a2795ed9" width="400">
