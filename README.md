@@ -12,7 +12,7 @@
 
 - Feel free to check out some of my projects
 
-- [Buy Me a Coffee](buymeacoffee.com/DevNickG)
+- [Buy Me a Coffee](https://buymeacoffee.com/devnickg)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0829247-929d-4902-a034-d923ce2cb3d6" width="400">
