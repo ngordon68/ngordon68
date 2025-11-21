@@ -6,8 +6,6 @@
   
 - Connect with me on [Linkedin](https://www.linkedin.com/in/nicholas-gordon-406394bb/)
   
-- Check out our [Website](https://www.detroitdevs.net)
-
 - Always down to learn and improve
 
 - Feel free to check out some of my projects
