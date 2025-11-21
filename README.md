@@ -1,5 +1,5 @@
 # Hello World 🌎, I'm Nick G 👋🏾
-### Coding Mentor | Detroit Native
+### Coding Mentor | Detroit Native | Community Builder
 
 
 - always working on something cool 👨🏾‍💻
