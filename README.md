@@ -7,8 +7,7 @@
 <a href="https://buymeacoffee.com/devnickg"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
  
 </div>
----
- 
+
 ### About me
  
 - 👨🏾‍💻 Always working on something cool
